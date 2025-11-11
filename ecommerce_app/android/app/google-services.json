@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592135287585",
+    "project_id": "nunez-bmc-part1",
+    "storage_bucket": "nunez-bmc-part1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592135287585:android:05fc765f2b46595ef70460",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhDwV8UEJkFyallN8b9SJBzh5kbtYawe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
